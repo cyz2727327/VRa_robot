@@ -1,2 +1,2 @@
 # alexa-robot-control
-Alexa skill to control robot!
+Alexa skill to control V.Ra!
